@@ -1,7 +1,7 @@
 import requests
 
 #アクセス先
-fetchURL = ""
+fetchURL = "https://script.google.com/macros/s/AKfycbyms1UjihwyYL7T2DbyEOR7-JLznPhzkT2jK6GzEQ-Sm52pvlnK66W6/exec"
 
 def postData():
     print("検索する人の学籍番号を入力してください。")
